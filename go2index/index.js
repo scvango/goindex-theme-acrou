@@ -65,7 +65,7 @@ var authConfig = {
 };
 
 var themeOptions = {
-  cdn: "https://github.com/scvango/goindex-theme-acrou",
+  cdn: "https://cdn.jsdelivr.net/gh/scvango/goindex-theme-acrou",
   // 主题版本号
   version: "2.0.9",
   //可选默认系统语言:en/zh-chs/zh-cht
@@ -97,7 +97,7 @@ var themeOptions = {
      * Player api(Use default player if not specified)
      */
     api: "",
-    autoplay: true,
+    autoplay: false,
   },
   /**
    * 音频播放器选项
