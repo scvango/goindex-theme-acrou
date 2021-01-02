@@ -7,7 +7,7 @@
             <a
               class="tag is-dark"
               href="https://m28scv-share-single.shadowm.workers.dev/owner.txt"
-            >goindex-theme-acrou</a>
+            >goindex-theme-v2</a>
             <span class="tag is-light">
               BUMBUMDRIVE &nbsp;
               <span class="icon">
