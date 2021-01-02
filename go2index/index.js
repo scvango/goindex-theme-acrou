@@ -1,6 +1,6 @@
 // =======Options START=======
 var authConfig = {
-  siteName: "CDN", // 网站名称
+  siteName: "CDN 1", // 网站名称
   version: "1.1.2", // 程序版本
   theme: "acrou",
   // 强烈推荐使用自己的 client_id 和 client_secret
