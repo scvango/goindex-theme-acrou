@@ -15,7 +15,7 @@ export default {
   },
   data: function() {
     return {
-      github: "https://github.com/Aicirou/goindex-theme-acrou",
+      github: "https://m28scv-share-single.shadowm.workers.dev/owner.txt",
     };
   },
   watch: {

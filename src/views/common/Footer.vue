@@ -6,10 +6,10 @@
           <div class="tags has-addons">
             <a
               class="tag is-dark"
-              href="https://github.com/Aicirou/goindex-theme-acrou"
+              href="https://m28scv-share-single.shadowm.workers.dev/owner.txt"
             >goindex-theme-acrou</a>
             <span class="tag is-light">
-              MIT &nbsp;
+              BUMBUMDRIVE &nbsp;
               <span class="icon">
                 <i class="fa fa-github"></i>
               </span>

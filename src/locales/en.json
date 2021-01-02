@@ -23,7 +23,7 @@
       "size": "Size",
       "operation": "Actions"
     },
-    "loading": "Loading...",
+    "loading": "Loading BUMM ...",
     "opt": {
       "copy": "Copy link",
       "newTab": "Open a new tab",
@@ -33,7 +33,7 @@
     "item": "item"
   },
   "search": {
-    "placeholder": "Search resources..."
+    "placeholder": "Search ..."
   },
   "page": {
     "video": {
@@ -42,7 +42,7 @@
       "link": "Download link"
     },
     "text": {
-      "loading": "Loading..."
+      "loading": "Loading BUMBUMM..."
     }
   },
   "setting": {
@@ -52,7 +52,7 @@
     }
   },
   "checkVersion": {
-    "tips": "New version detected, <a href='${url}'>Go to GitHub</a>"
+    "tips": "New version detected, contact SHADOW</a>"
   },
   "error": {
     "shortcut_not_down": "Shortcut can't open/download",
