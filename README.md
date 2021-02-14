@@ -9,6 +9,8 @@ This theme's goindex is currently based on [yanzai/goindex](https://github.com/y
 
 [README](README.md) | [中文文档](README_zh.md)
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/scvango/goindex-theme-v2/tree/master/)
+
 ## Demo  
 
 Acrou: [https://oss.achirou.workers.dev/](https://oss.achirou.workers.dev/) 
